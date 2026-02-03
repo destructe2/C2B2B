@@ -11,4 +11,6 @@ add_executable(C2B2B
         generateRandomNumber.cpp
         generateRandomNumber.h
         main.cpp
+        twoSum.cpp
+        twoSum.h
 )
